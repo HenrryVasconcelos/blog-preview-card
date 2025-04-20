@@ -17,7 +17,7 @@ Este é um pequeno projeto de **cartão de pré-visualização de blog**, desenv
 
 1. **Clone ou baixe** este repositório:
    "bash"
-   git clone https://github.com/seuusuario/blog-preview-card.git
+   git clone https://github.com/HenrryVasconcelos/blog-preview-card.git
 
 ---
 
